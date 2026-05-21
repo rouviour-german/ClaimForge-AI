@@ -143,6 +143,10 @@ ClaimForge AI generates **Immutable Audit Logs** secured by SHA-256 hashes for e
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
